@@ -1,6 +1,6 @@
 name: 'Push source branch to destination branch'
 description: 'Overrides destination branch from source branch'
-author: '@codingentrepreneurs'
+author: '@k4rimDev'
 icon: git-branch
 color: green
 inputs:
